@@ -1,34 +1,12 @@
-<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-      <button style="display:flex; justify-content: center; padding: 7px; background: #fff; border: 1px solid #000; letter-spacing: 1px; font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,arial,sans-serif;" onClick="window.open('https://ftx.us/pay/request?coin=SOL&address=BVFTQzEas8kMPkcugksaTTuLnQJ8ESxtLryk4ngdyvjU&tag=&wallet=sol&memoIsRequired=false&memo=&fixedWidth=true','_blank','resizable,width=700,height=900')">Test
-       <svg>
-          <foreignObject width="100%" height="100%">
-          <defs>
-            <style>
-              .cls-1 {
-                fill: #02a6c2;
-              }
+<h1 align="center" style="font-size: 22px"> LFG </h1>
 
-              .cls-2 {
-                fill: #5fcade;
-              }
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://tenor.com/view/ln_strike-gregzaj1-quant-quantitative-gif-22567558');]{x0000}$}
+```
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 300px; animation: 5s linear both infinite shrink-x; background-image: url('https://tenor.com/view/i-can-feel-you-judging-me-jared-vennett-ryan-gosling-the-big-short-dont-judge-me-gif-20321912');]{x0000}$}
+```
 
-              .cls-3 {
-                fill: #abebf4;
-              }
-            </style>
-          </defs>
-          <title>FTX Pay</title>
-          <g id="Layer_2" data-name="Layer 2">
-            <g id="Layer_1-2" data-name="Layer 1">
-              <path class="cls-1" d="M565.41.11q717.21-.22,1434.51,0,.22,231.83,0,463.58-717.23.22-1434.51,0Q565.18,231.86,565.41.11Z" />
-              <path class="cls-2" d="M.6,638.1q231.39-1.2,462.86,0,1.2,231.39,0,462.86Q232,1102.15.6,1101-.6,869.57.6,638.1Z" />
-              <path class="cls-2" d="M565.77,638.1q517.67-1.1,1035.27,0,1.1,231.39,0,462.86-517.66,1.08-1035.27,0Q564.69,869.56,565.77,638.1Z" />
-              <path class="cls-3" d="M566.2,1276.23q231-2.51,461.92,0,2.4,230.85.07,461.92-231,2.28-461.91-.08Q563.88,1507.24,566.2,1276.23Z" />
-            </g>
-          </g>
-          </foreignObject>
-        </svg>
-      </button>
-  </foreignObject>
- </svg>
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 300px; background-image: url('https://tenor.com/view/wolf-of-wall-street-lets-goo-gif-11742735383203550293');]{x0000}$}
+```
